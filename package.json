@@ -1,10 +1,12 @@
 {
-  "name": "hw1",
+  "name": "parsepal",
   "version": "1.0.0",
   "main": "csv_reader.js",
   
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "build" : "echo 'No build step defined' "
+
   },
   "keywords": [],
   "author": "",
