@@ -2,12 +2,16 @@
   "name": "parsepal",
   "version": "1.0.0",
   "main": "csv_reader.js",
-  
   "scripts": {
     "test": "jasmine",
     "build" : "echo 'No build step defined' "
 
   },
+
+   "dependencies": {
+    "jasmine": "5.10.0"
+
+   }, 
   "keywords": [],
   "author": "",
   "license": "ISC",
