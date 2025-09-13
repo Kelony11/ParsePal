@@ -1,0 +1,13 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "main": "csv_reader.js",
+  
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
